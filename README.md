@@ -1,15 +1,15 @@
 <h1 align="center">👋 Olá, eu sou a Elys Regina,</h1>
 <h3 align="center">👩 Experiente em negócios, adquirindo experiência em dados</h3>
 
-- 🌱 Estou aprendendo **tudo do zero**
+- 🌱 Estou aprendendo *tudo do zero*
 
-- 💬 Me pergunte sobre **Excel, Power BI, Análise de Dados**
+- 💬 Me pergunte sobre *Excel, Power BI, Análise de Dados*
 
-- 📫 Você me acha no e-mail **elysregina.ds@gmail.com**
+- 📫 Você me acha no e-mail *elysregina.ds@gmail.com*
 
 - 📄 Minhas informações profissionais estão em [https: //www.linkedin.com/in/elys-regina-ds2022/](https://www.linkedin.com/in/elys-regina-ds2022/)
 
-- ⚡ Fato engraçado **Papa Francisco é um Globetrotter honorário! **
+- ⚡ Fato engraçado *Papa Francisco é um Globetrotter honorário! *
 
 
 <!---
