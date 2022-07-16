@@ -1,15 +1,15 @@
-<h1 align="center">👋 Olá, eu sou a Elys Regina,</h1>
-<h3 align="center">👩 Experiente em negócios, iniciante em dados</h3>
+<h1 align="center">👋 Hi, I am Elys Regina,</h1>
+<h3 align="center">👩 Business savvy, Data Science beginner.</h3>
 
-- 🌱 Aprendendo, do zero ao infinito e além!
+- 🌱 Learning, from zero to infinity and beyond!
 
-- 💬 Me pergunte sobre **Excel, Power BI, Análise de Dados**
+- 💬 Ask me about **Excel, Power BI, Data Analytics**
 
-- 📫 Você me acha no e-mail **elysregina.ds@gmail.com**
+- 📫 You can reach me at **elysregina.ds@gmail.com**
 
-- 📄 Minhas informações profissionais estão em [https: //www.linkedin.com/in/elys-regina-ds2022/](https://www.linkedin.com/in/elys-regina-ds2022/)
+- 📄 My professional information is in [https: //www.linkedin.com/in/elys-regina-ds2022/](https://www.linkedin.com/in/elys-regina-ds2022/)
 
-- ⚡ Fato engraçado **Papa Francisco é um Globetrotter honorário!**
+- ⚡ Funny Fact **Pope Francis is an honorary Globetrotter!**
 
 
 <!---
