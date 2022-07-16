@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou a Elys Regina,</h1>
-<h3 align="center">👩 Experiente em negócios, adquirindo experiência em dados</h3>
+<h3 align="center">👩 Experiente em negócios, iniciante em dados</h3>
 
-- 🌱 Estou aprendendo tudo do zero
+- 🌱 Aprendendo, do zero ao infinito e além!
 
 - 💬 Me pergunte sobre **Excel, Power BI, Análise de Dados**
 
